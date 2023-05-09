@@ -1,5 +1,22 @@
-19K1109 最終課題 Face Detector
+English
+1. Program main file face_detector.m
+This program consists of three files: face_detector.m, findeye.m, and skim.m.
+How to run: Open face_detector.m -> Load any image into I -> Run
 
+2. Application: face_detector.mlapp
+face_detector.mlapp: The main application file.
+How to run: Open in MATLAB.
+
+face_detector.mlappinstall: The installation program.
+How to run: Install -> MATLAB App -> Open face_detector in My Apps.
+
+How to use the application:
+
+1. Click "Select Image..." to choose a file.
+2. Click "Run" to display the binary image and detection results.
+3. Click "Clear" to reset the program.
+
+日本語
 1.プログラム本体 face_detector.m
 
 	今回のプログラムは、
